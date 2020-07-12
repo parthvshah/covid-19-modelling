@@ -7,8 +7,8 @@ set grid
 # set arrow from 202, graph 0 to 202, graph 1 nohead
 # set arrow from 226, graph 0 to 226, graph 1 nohead
 # set arrow from 343, graph 0 to 343, graph 1 nohead
-plot [100:470] "./data/six_month1.dat" u 1:2 w line lw 2 lc "green" title "{/Symbol b}'=0.95{/Symbol b}", \
-    [100:470] "./data/six_month3.dat" u 1:2 w line lw 2 dashtype 2 lc "green" title "{/Symbol b}'=0.75{/Symbol b}", \
-    [100:470] "./data/six_month2.dat" u 1:2 w line lw 2 dashtype 8 lc "green" title "{/Symbol b}'=0.50{/Symbol b}"
+plot [100:470] "./data/six_month1.dat" u 1:2 w line lw 2 lc "black" title "{/Symbol b}'=0.95{/Symbol b}", \
+    [100:470] "./data/six_month3.dat" u 1:2 w line lw 2 dashtype 2 lc "black" title "{/Symbol b}'=0.75{/Symbol b}", \
+    [100:470] "./data/six_month2.dat" u 1:2 w line lw 2 dashtype 8 lc "black" title "{/Symbol b}'=0.50{/Symbol b}"
     
 
