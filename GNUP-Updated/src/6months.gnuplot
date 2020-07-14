@@ -1,4 +1,4 @@
-set title "6 Months Intervention"
+# set title "6 Months Intervention"
 set ylabel "Infected Individuals"
 set xlabel "Day t"
 set key right top box opaque

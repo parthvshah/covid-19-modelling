@@ -1,4 +1,4 @@
-set title "Estimate of New Confirmed Cases and New Confirmed Cases"
+# set title "Estimate of New Confirmed Cases and New Confirmed Cases"
 set ylabel "No. of new confirmed cases"
 set xlabel "Date"
 set xdata time

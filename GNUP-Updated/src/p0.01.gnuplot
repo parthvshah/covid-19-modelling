@@ -1,5 +1,6 @@
 set terminal jpeg size 1300,600
-set multiplot layout 1,3 title "Peak of Epidemic for p=0.01"
+# gnuplot < p0.01.gnuplot > p0.01.jpeg
+set multiplot layout 1,3 # title "Peak of Epidemic for p=0.01"
 set grid
 set lmargin 7
 set rmargin 2

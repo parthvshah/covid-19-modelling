@@ -1,4 +1,4 @@
-set title "Change in Confirmed Cases in India"
+# set title "Change in Confirmed Cases in India"
 set ylabel "No. of confirmed cases"
 set xlabel "Date"
 set xdata time

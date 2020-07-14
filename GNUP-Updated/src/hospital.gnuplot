@@ -1,4 +1,4 @@
-set title "Infected Individuals and Healthcare Capacity in India"
+# set title "Infected Individuals and Healthcare Capacity in India"
 set ylabel "Infected Individuals"
 set xlabel "Day t"
 set key right top box opaque

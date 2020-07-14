@@ -1,4 +1,4 @@
-set title "Infection Rate Reduced to 95%"
+# set title "Infection Rate Reduced to 95%"
 set ylabel "Infected Individuals"
 set xlabel "Day t"
 set key right top box opaque
