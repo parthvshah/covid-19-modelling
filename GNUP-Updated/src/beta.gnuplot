@@ -1,6 +1,6 @@
 # set title "Estimate of New Confirmed Cases and New Confirmed Cases"
 set ylabel "No. of new confirmed cases"
-set xlabel "Date"
+set xlabel "Date (mm/dd)"
 set xdata time
 set timefmt "%m/%d/%Y"
 set key left top box

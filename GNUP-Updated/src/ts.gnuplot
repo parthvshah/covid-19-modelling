@@ -1,6 +1,6 @@
 # set title "Change in Confirmed Cases in India"
 set ylabel "No. of confirmed cases"
-set xlabel "Date"
+set xlabel "Date (mm/dd)"
 set xdata time
 set timefmt "%m/%d/%Y"
 set key left top box
